@@ -18,5 +18,5 @@ Youtube: https://youtu.be/Qx__TQDC9dk
 Website API: https://developer.themoviedb.org/reference/
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZGIpe66gpPI" frameborder="0" allowfullscreen></iframe>
+[![Tutorial Video](https://example.com/video_thumbnail.jpg)](https://www.youtube.com/watch?v=ZGIpe66gpPI)
 
