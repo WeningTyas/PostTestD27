@@ -18,7 +18,4 @@ Youtube: https://youtu.be/Qx__TQDC9dk
 Website API: https://developer.themoviedb.org/reference/
 
 
-![Video](https://github.com/WeningTyas/PostTestD27/blob/main/image/bandicam%202023-08-27%2015-09-23-400.mp4)
-
-
 
